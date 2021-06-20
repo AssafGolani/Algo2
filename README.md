@@ -1,4 +1,4 @@
-# Algo2
+# Random-Graphs-according-to-Erdos-Renyi-Model
 First assingment of algo 2
 Written by guygeller and AssafGolani.
 
